@@ -11,3 +11,6 @@ Created spitesheet here:
 https://spritesheet.org/
 Designed gun sprites here
 https://www.piskelapp.com/p/create/sprite
+
+Good explanation about pygame sprite class
+https://kidscancode.org/blog/2016/08/pygame_1-2_working-with-sprites/
